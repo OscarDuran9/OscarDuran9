@@ -29,5 +29,4 @@ Figma • Interactive Visualizations • Creative Coding • Adobe Suite • Can
 
 
 - [LinkedIn](https://www.linkedin.com/in/oscar-duran-a1232b2b2/)
-- [GitHub](https://github.com/OscarDuran9)
 
